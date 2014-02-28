@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=rpi
+comment0.target=void\ setRP(RandomPicker)
+comment1.params=gpi
+comment1.target=void\ setGP(GreenPicker)
+comment2.params=c
+comment2.target=void\ inspectCoin(Coin)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
